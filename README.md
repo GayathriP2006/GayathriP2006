@@ -1,6 +1,11 @@
 <p align="center">
   <img src="banner.png" alt="GitHub Banner" width="100%">
 </p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=900&lines=AI+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Three.js+Developer;Building+Real-World+Projects" alt="Typing SVG" />
+  </a>
+</p>
 <h1 align="center">Hi 👋, I'm Gayathri P</h1>
 
 <h3 align="center">
