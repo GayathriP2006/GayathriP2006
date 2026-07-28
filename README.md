@@ -1,15 +1,7 @@
 <p align="center">
   <img src="banner.png" alt="GitHub Banner" width="100%">
 </p>
-# 📊 GitHub Statistics
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=GayathriP2006&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GayathriP2006&theme=tokyonight"/>
-
-</p>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=900&lines=AI+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Three.js+Developer;Building+Real-World+Projects" alt="Typing SVG" />
@@ -212,16 +204,27 @@ class Gayathri:
 - ✅ Create portfolio-worthy software
 
 ---
-
 # 🌐 Connect With Me
 
-- 💼 LinkedIn
-- 📧 Email
-- 🌍 Portfolio
-- 💻 LeetCode
-- 🏆 GeeksforGeeks
+<p align="center">
 
+<a href="https://www.linkedin.com/in/gayathri-p-b617a932a/">
+<img src="https://img.shields.io/badge/LinkedIn-Gayathri%20P-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/GayathriP2006">
+<img src="https://img.shields.io/badge/GitHub-GayathriP2006-black?style=for-the-badge&logo=github">
+</a>
+
+</p>
 ---
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=GayathriP2006&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GayathriP2006&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 # 💬 Favorite Quote
 
@@ -233,10 +236,4 @@ class Gayathri:
 
 If you like my work, consider giving a ⭐ to my repositories.
 
-# 🐍 Contribution Snake
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/GayathriP2006/GayathriP2006/output/github-contribution-grid-snake.svg">
-
-</p>
