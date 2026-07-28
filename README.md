@@ -1,6 +1,15 @@
 <p align="center">
   <img src="banner.png" alt="GitHub Banner" width="100%">
 </p>
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=GayathriP2006&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GayathriP2006&theme=tokyonight"/>
+
+</p>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=900&lines=AI+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Three.js+Developer;Building+Real-World+Projects" alt="Typing SVG" />
@@ -118,12 +127,6 @@ class Gayathri:
 
 ---
 
-## 🧪 AR Virtual Laboratory
-
-> Markerless Augmented Reality educational platform for interactive laboratory experiments.
-
----
-
 ## 🌿 Herbal Garden
 
 > Interactive educational website providing medicinal plant information with responsive design.
@@ -132,14 +135,11 @@ class Gayathri:
 
 # 🛠 Tech Stack
 
-## 💻 Languages
+<p align="center">
 
-- Java
-- Python
-- JavaScript
-- C
-- SQL
+<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,react,nodejs,mongodb,tensorflow,git,github,vscode" />
 
+</p>
 ---
 
 ## 🌐 Frontend
@@ -180,15 +180,14 @@ class Gayathri:
 - Figma
 
 ---
-
 # 🏆 Achievements
 
 - 🏅 Oracle Certified Foundations Associate
-- 📄 Research Paper Presenter
-- 🚀 Built AI, Full Stack, and 3D Web Projects
-- 🌱 Passionate Open Source Learner
-- 💻 Continuously improving through real-world projects
-
+- 📄 Presented research paper at AI-SDSC'25:
+  "AI-Driven Energy Optimization in Manufacturing: A Case Study Using Linear Regression for Sustainable Industrial Efficiency"
+- 🚀 Developed AI, Machine Learning, Full Stack, and 3D Web Applications
+- 🛰️ Built SolarFlareX — AI-based Solar Flare Prediction System
+- 🌌 Developing SolarVerse — Interactive 3D Solar System Experience
 ---
 
 # 📚 Currently Learning
@@ -214,19 +213,6 @@ class Gayathri:
 
 ---
 
-# 💡 Interests
-
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Software Engineering
-- Computer Graphics
-- Web Development
-- Open Source
-- Research
-
----
-
 # 🌐 Connect With Me
 
 - 💼 LinkedIn
@@ -246,3 +232,11 @@ class Gayathri:
 ⭐ Thanks for visiting my profile!
 
 If you like my work, consider giving a ⭐ to my repositories.
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/GayathriP2006/GayathriP2006/output/github-contribution-grid-snake.svg">
+
+</p>
